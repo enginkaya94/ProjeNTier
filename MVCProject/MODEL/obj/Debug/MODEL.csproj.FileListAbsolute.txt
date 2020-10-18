@@ -1,0 +1,15 @@
+C:\Users\pc\OneDrive\Masaüstü\MVCProject\MODEL\bin\Debug\MODEL.dll.config
+C:\Users\pc\OneDrive\Masaüstü\MVCProject\MODEL\bin\Debug\MODEL.dll
+C:\Users\pc\OneDrive\Masaüstü\MVCProject\MODEL\bin\Debug\MODEL.pdb
+C:\Users\pc\OneDrive\Masaüstü\MVCProject\MODEL\bin\Debug\CORE.dll
+C:\Users\pc\OneDrive\Masaüstü\MVCProject\MODEL\bin\Debug\EntityFramework.dll
+C:\Users\pc\OneDrive\Masaüstü\MVCProject\MODEL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\OneDrive\Masaüstü\MVCProject\MODEL\bin\Debug\CORE.pdb
+C:\Users\pc\OneDrive\Masaüstü\MVCProject\MODEL\bin\Debug\CORE.dll.config
+C:\Users\pc\OneDrive\Masaüstü\MVCProject\MODEL\bin\Debug\EntityFramework.xml
+C:\Users\pc\OneDrive\Masaüstü\MVCProject\MODEL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\OneDrive\Masaüstü\MVCProject\MODEL\obj\Debug\MODEL.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Masaüstü\MVCProject\MODEL\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Masaüstü\MVCProject\MODEL\obj\Debug\MODEL.csproj.CopyComplete
+C:\Users\pc\OneDrive\Masaüstü\MVCProject\MODEL\obj\Debug\MODEL.dll
+C:\Users\pc\OneDrive\Masaüstü\MVCProject\MODEL\obj\Debug\MODEL.pdb

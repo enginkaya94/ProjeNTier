@@ -1,0 +1,5 @@
+C:\Users\pc\OneDrive\Masaüstü\MVCProject\COMMON\bin\Debug\COMMON.dll
+C:\Users\pc\OneDrive\Masaüstü\MVCProject\COMMON\bin\Debug\COMMON.pdb
+C:\Users\pc\OneDrive\Masaüstü\MVCProject\COMMON\obj\Debug\COMMON.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Masaüstü\MVCProject\COMMON\obj\Debug\COMMON.dll
+C:\Users\pc\OneDrive\Masaüstü\MVCProject\COMMON\obj\Debug\COMMON.pdb
